@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="weddingperformer.html" resolutions="1x" timestamp="1507014371097">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="weddingperformer.html" resolutions="1x" timestamp="1507184495394">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_home.css" crc="3954049417" ref="index:find-us:hear-us:about-us"/>
+    <file name="master_home.css" crc="58263600" ref="index:find-us:hear-us:about-us"/>
     <file name="index.css" crc="3912055384" ref="index"/>
     <file name="find-us.css" crc="157617193" ref="find-us"/>
     <file name="hear-us.css" crc="490953900" ref="hear-us"/>
@@ -43,8 +43,8 @@
     <file name="u738-17-m.png" crc="4130988100" ref="hear-us"/>
     <file name="u738-17-fs.png" crc="4268436061" ref="hear-us"/>
   </folder>
-  <file name="find-us.html" crc="4160494970" seo="true" mt="1507014182102" redirect="true"/>
-  <file name="about-us.html" crc="4230721749" seo="true" mt="1507014182102" redirect="true"/>
-  <file name="index.html" crc="165862610" seo="true" mt="1507014220913" redirect="true"/>
-  <file name="hear-us.html" crc="3937913729" seo="true" mt="1507014182102" redirect="true"/>
+  <file name="find-us.html" crc="4160494970" seo="true" mt="1507184334088" redirect="true"/>
+  <file name="about-us.html" crc="4230721749" seo="true" mt="1507184334088" redirect="true"/>
+  <file name="index.html" crc="165862610" seo="true" mt="1507184334088" redirect="true"/>
+  <file name="hear-us.html" crc="3937913729" seo="true" mt="1507184334088" redirect="true"/>
 </manifest>
